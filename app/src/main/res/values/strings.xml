@@ -1,0 +1,228 @@
+<resources>
+    <string name="app_name">WeatherAppProject</string>
+
+    <string-array name="city">
+        <item>Ladang Lothian</item>
+        <item>Kampung Seelong</item>
+        <item>Kampung Pasir Penjih</item>
+        <item>Api Rokok</item>
+        <item>Kampung Batu Lapan Tiga Suku</item>
+        <item>Pekan Darat</item>
+        <item>Kampung Alor Perang</item>
+        <item>Kampung Tekek</item>
+        <item>Kampong Wakuba</item>
+        <item>Kuah</item>
+        <item>Kluang</item>
+        <item>Kinarut</item>
+        <item>Port Dickson</item>
+        <item>Serendah</item>
+        <item>Kuantan</item>
+        <item>Batu Gajah</item>
+        <item>Simanggang</item>
+        <item>Kapit</item>
+        <item>Limbang</item>
+        <item>Tanjung Sepat</item>
+        <item>Bandar Labuan</item>
+        <item>Malaysia</item>
+        <item>Johor</item>
+        <item>Kemajuan Tanah Batu Enam Puluh Tujuh</item>
+        <item>Kepong</item>
+        <item>Kelantan</item>
+        <item>Kampung Rantau Panjang</item>
+        <item>Kampong Telok Reba</item>
+        <item>Kampung Subang</item>
+        <item>Kampung Teluk Dalam</item>
+        <item>Kampung Naran</item>
+        <item>Terengganu</item>
+        <item>Kampung Telaga Batin</item>
+        <item>Kampung Pulau Samak</item>
+        <item>Chabang Wahid</item>
+        <item>Mersing</item>
+        <item>Donggongon</item>
+        <item>Petaling</item>
+        <item>Kuala Lumpur</item>
+        <item>Sabak Bernam</item>
+        <item>Sungai Besar</item>
+        <item>Kampar</item>
+        <item>Putrajaya</item>
+        <item>Negeri Sembilan</item>
+        <item>Pelabuhan Kelang Utara</item>
+        <item>Kampung Paya Kenangan</item>
+        <item>Sarawak</item>
+        <item>Kuching</item>
+        <item>Setapak</item>
+        <item>Selangor</item>
+        <item>Shah Alam</item>
+        <item>Pasir Penambang</item>
+        <item>Melaka</item>
+        <item>Kampung Dua</item>
+        <item>Sibu</item>
+        <item>Perak</item>
+        <item>Ipoh</item>
+        <item>Taman Labu Jaya</item>
+        <item>Miri</item>
+        <item>Brighton</item>
+        <item>Klang</item>
+        <item>Labuan</item>
+        <item>Victoria</item>
+        <item>Kedah</item>
+        <item>Alor Setar</item>
+        <item>Perlis</item>
+        <item>Kampung Bakau</item>
+        <item>Kampung Kota Lama</item>
+        <item>Kampung Kubur</item>
+        <item>Pahang</item>
+        <item>Telok Baharu</item>
+        <item>Sabah</item>
+        <item>Tawau</item>
+        <item>Taiping</item>
+        <item>Taman Khalidi Baru</item>
+        <item>Kampung Tabanac</item>
+        <item>Bintulu</item>
+        <item>Banting</item>
+        <item>Sitiawan</item>
+        <item>Pelabuhan Klang</item>
+        <item>Maran</item>
+        <item>Permatang Damar Laut</item>
+        <item>Pulau Pinang</item>
+        <item>Kampung Pokok Manggis</item>
+        <item>Kampung Agung Agung</item>
+        <item>Kampung Pamaguan</item>
+        <item>Putatan</item>
+        <item>Kampong Tengah</item>
+        <item>Rumah Ampeng</item>
+        <item>Riam Road Bazaar</item>
+        <item>Kampong Batu Perak</item>
+        <item>Rumah Dana</item>
+        <item>Batu Hitam</item>
+        <item>Kampong Gual Payong</item>
+        <item>Jerantut</item>
+        <item>Raub</item>
+        <item>Batu Pahat</item>
+        <item>Parit Raja</item>
+        <item>Pekan Nenas</item>
+        <item>Pontian Kechil</item>
+        <item>Kampung Pasir Gudang Baru</item>
+        <item>Kota Tinggi</item>
+        <item>Taman Senai</item>
+        <item>Kulai</item>
+        <item>Sekudai</item>
+        <item>Johor Bahru</item>
+        <item>Yong Peng</item>
+        <item>Segamat</item>
+        <item>Tangkak</item>
+        <item>Muar</item>
+        <item>Bakri</item>
+        <item>Labis</item>
+        <item>Kuala Selangor</item>
+        <item>Batang Berjuntai</item>
+        <item>Batu Arang</item>
+        <item>Cukai</item>
+        <item>Kuala Lipis</item>
+        <item>Papar</item>
+        <item>Kota Kinabalu</item>
+        <item>Ranau</item>
+        <item>Semporna</item>
+        <item>Beaufort</item>
+        <item>Lahad Datu</item>
+        <item>Sandakan</item>
+        <item>Keningau</item>
+        <item>Paka</item>
+        <item>Kertih</item>
+        <item>Kulim</item>
+        <item>Bagan Serai</item>
+        <item>Bedong</item>
+        <item>Simpang Empat</item>
+        <item>Kuala Kangsar</item>
+        <item>Gua Musang</item>
+        <item>Kuala Terengganu</item>
+        <item>Marang</item>
+        <item>Tampin</item>
+        <item>Alor Gajah</item>
+        <item>Kampung Ayer Keroh</item>
+        <item>Sungai Udang</item>
+        <item>Melaka</item>
+        <item>Jenjarum</item>
+        <item>Semenyih</item>
+        <item>Seremban</item>
+        <item>Bahau</item>
+        <item>Kuala Pilah</item>
+        <item>Pekan</item>
+        <item>Mentekab</item>
+        <item>Temerluh</item>
+        <item>Butterworth</item>
+        <item>Perai</item>
+        <item>Bukit Mertajam</item>
+        <item>Nibong Tebal</item>
+        <item>Parit Buntar</item>
+        <item>Tasek Glugor</item>
+        <item>George Town</item>
+        <item>Rawang</item>
+        <item>Petaling Jaya</item>
+        <item>Kuala Lumpur</item>
+        <item>Tapah Road</item>
+        <item>Bidur</item>
+        <item>Lumut</item>
+        <item>Teluk Intan</item>
+        <item>Gurun</item>
+        <item>Sungai Petani</item>
+        <item>Kepala Batas</item>
+        <item>Tanah Merah</item>
+        <item>Sarikei</item>
+        <item>Kangar</item>
+        <item>Jitra</item>
+        <item>Kuala Kedah</item>
+        <item>Pasir Mas</item>
+        <item>Kota Bharu</item>
+        <item>Kudat</item>
+        <item>Ulu Tiram</item>
+        <item>Tanjung Tokong</item>
+        <item>Permatang Kuching</item>
+        <item>Peringat</item>
+        <item>Ladang Seri Kundang</item>
+        <item>Pantai Remis</item>
+        <item>Kuang</item>
+        <item>Klebang Besar</item>
+        <item>Kampung Tanjung Karang</item>
+        <item>Kampung Sungai Ara</item>
+        <item>Kampung Simpang Renggam</item>
+        <item>Kampong Pangkal Kalong</item>
+        <item>Kampong Masjid Tanah</item>
+        <item>Kampong Kadok</item>
+        <item>Kampong Dungun</item>
+        <item>Kampung Bukit Baharu</item>
+        <item>Kampung Baru Subang</item>
+        <item>Kampung Baharu Nilai</item>
+        <item>Kampong Baharu Balakong</item>
+        <item>Kampung Ayer Molek</item>
+        <item>Bukit Rambai</item>
+        <item>Bentong Town</item>
+        <item>Batu Berendam</item>
+        <item>Putrajaya</item>
+        <item>Kampung Baharu</item>
+        <item>Chaah</item>
+        <item>Beranang</item>
+        <item>Buloh Kasap</item>
+        <item>Kampung Bukit Tinggi</item>
+        <item>Tanah Rata</item>
+        <item>Ketereh</item>
+        <item>Pulai Chondong</item>
+        <item>Kuala Perlis</item>
+        <item>Tumpat</item>
+        <item>Jertih</item>
+        <item>Kota Belud</item>
+        <item>Sungai Pelek New Village</item>
+        <item>Pulau Sebang</item>
+        <item>Kuala Sungai Baru</item>
+        <item>Kelapa Sawit</item>
+        <item>Juru</item>
+        <item>Bemban</item>
+        <item>Kampung Lemal</item>
+        <item>Kampung Sungai Glugur</item>
+        <item>Kampong Sungai Tanah Liat</item>
+        <item>Kampung Sungai Nibung Besar</item>
+        <item>Perkampungan Kertih Lima</item>
+    </string-array>
+</resources>
+
+

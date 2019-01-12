@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="city"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:id="@+id/cityTextView"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="date"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="16sp"
+        android:id="@+id/dateTextView"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/ic_launcher"
+        android:layout_gravity="center"
+        android:padding="16dp"
+        android:id="@+id/weatherImageView"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="weather"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="16sp"
+        android:id="@+id/weatherTextView"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="humidity"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="16sp"
+        android:id="@+id/humidityTextView"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="pressure"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="16sp"
+        android:id="@+id/pressureTextView"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="temp"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="48sp"
+        android:padding="16dp"
+        android:id="@+id/tempTextView"/>
+
+
+</LinearLayout>
